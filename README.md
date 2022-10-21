@@ -24,4 +24,8 @@ git clone https://github.com/Ibrahim-Hossam/Ibrahim_Hossam_MindCloud.git
 ```
 
 # Screenshots
+## The pull request screenshot:
 ![](Pull%20request.jpg)
+
+## The commit screenshot:
+![](commits.jpg)
